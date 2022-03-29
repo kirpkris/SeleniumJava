@@ -1,0 +1,5 @@
+# Ignore the following folders and files
+/*.iml
+.idea/
+target/
+*.log
